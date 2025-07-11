@@ -67,7 +67,7 @@ const Aboutus = () => {
               Aakash Labs combines tech expertise and business intelligence to
               catalyze change and deliver results. We make sure we add value to
               those businesses that aim to add value to their customers. When we
-              first get to know you, we’ll immediately begin analyzing your
+              first get to know you, we'll immediately begin analyzing your
               website. We want to know everything we can about your brand.
             </p>
           </div>

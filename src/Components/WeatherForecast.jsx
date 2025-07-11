@@ -78,7 +78,7 @@ const WeatherForecast = () => {
         {forecast.slice(0, 6).map((forecast, index) => (
           <div
             key={index}
-            className=" hover:bg-indigo-100  rounded-xl p-5 shadow-md hover:shadow-lg transition"
+            className=" hover:bg-indigo-50  rounded-xl p-5 shadow-md hover:shadow-lg transition"
           >
             <h2 className="shadow-md text-xl font-semibold text-blue-950 mb-2">
               {forecast.dt_txt}

@@ -31,7 +31,6 @@ const Footer = () => {
             <p className="font-bold text-gray-500 p-3 text-center">About us</p>
           </NavLink>
           <NavLink to="/ourteam">
-            {" "}
             <p className="font-bold text-gray-500 p-3 text-center">Our Team</p>
           </NavLink>
           <NavLink to="/contact">
